@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[点击这里查看 p5.js sketch](p5.html)
+
 <!--
 **ZhuYouhe/ZhuYouhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
